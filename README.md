@@ -10,4 +10,4 @@
     - [ ] Vis flash cards
     - [ ] søke på tags
     - [ ] random card
-- [ ] Styres med keyboard/mus
+- [x] Styres med keyboard/mus
